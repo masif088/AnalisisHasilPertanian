@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/analisis"
+        android:id="@+id/analysis"
+        android:title="Analisis"/>
+    <item
+        android:icon="@drawable/information"
+        android:id="@+id/information"
+        android:title="Info Tani"
+        />
+    <item
+        android:icon="@drawable/about"
+        android:id="@+id/About"
+        android:title="Tentang"
+        />
+</menu>

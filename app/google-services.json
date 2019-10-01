@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681694340987",
+    "firebase_url": "https://analisishasilpertanian.firebaseio.com",
+    "project_id": "analisishasilpertanian",
+    "storage_bucket": "analisishasilpertanian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681694340987:android:2c36c0418779c60f9ebfde",
+        "android_client_info": {
+          "package_name": "com.example.analisishasilpertanian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681694340987-r1830j5lpmg1vg8v65a07t2645996567.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.analisishasilpertanian",
+            "certificate_hash": "5d09446a864dac4f0e25e06417d2a47b2a0d08a2"
+          }
+        },
+        {
+          "client_id": "681694340987-h6jkvtmlecgq0fk394nf55otikqtpssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwA8swT4gbQRS06TXPLTCHMYGyQXpkiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681694340987-h6jkvtmlecgq0fk394nf55otikqtpssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
